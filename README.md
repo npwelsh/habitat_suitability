@@ -1,4 +1,7 @@
 # Habitat Suitability Model for Tetraneuris Grandiflora
+
+[![DOI](https://zenodo.org/badge/888165960.svg)](https://doi.org/10.5281/zenodo.14498406)
+
 ## Overview 
 This is the final project for GEOG 5463: Fundamental of Earth Data Science Class.  It examines soil saturation, slope, and modeled climate temperatures  for Grand Teton and Rocky Mountain National Parks, with the goal for making a habitat suitability model for Tetraneuris Grandiflora (aka Old-Man-of-the-Mountain), with an emphasis on modeling where this wildflower might be found in the future.  It uses data from the Polaris Soil Project, the NASA Shuttle Radar Topography Mission, the National Park Service, and the  Northwest Knowledge Multivariate Adaptive Constructed (MACA) Datasets.
 
